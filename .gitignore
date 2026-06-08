@@ -1,0 +1,4 @@
+# Kubeconfig files (stored outside repo in ~/.kube/psmdb-demo/)
+gcp-main_config
+gcp-replica_config
+*.kubeconfig
