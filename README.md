@@ -90,7 +90,6 @@ After completing this guide you will have:
 
 **Manifests and exports** (in this working directory):
 
-Commit to git (safe — no credentials):
 ```
 cr-main.yaml                                        # Main cluster initial config
 cr-main-after.yaml                                  # Main cluster config with externalNodes
